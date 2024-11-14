@@ -1,0 +1,16 @@
+{
+  "name": "antidot-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start-dev": "nodemon src/index.js"
+  },
+  "author": "Team C242-PS176",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
