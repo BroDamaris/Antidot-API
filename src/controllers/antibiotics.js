@@ -1,4 +1,3 @@
-const { where } = require("sequelize");
 const antibiotic = require("../models/antibioticModel");
 
 const getAllAntibiotics = async (req, res) => {
